@@ -36,6 +36,4 @@ Example:- /set_caption 📕 File Name: {filename}
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
-"""<b><u>Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Oғ Tʜɪs Bᴏᴛ ɪs Pʀɪᴠᴀᴛᴇ</b></u>
-» 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Praxxsh>A ᴅ ᴏ ʟ ғ 🔰 R ᴀ ᴍ</a>"""
+    
